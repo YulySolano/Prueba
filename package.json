@@ -1,0 +1,23 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "ejercicio de clase",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YulySolano/Prueba.git"
+  },
+  "author": "Yuly Solano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YulySolano/Prueba/issues"
+  },
+  "homepage": "https://github.com/YulySolano/Prueba#readme",
+  "dependencies": {
+    "hapi": "^17.6.0",
+    "inert": "^5.1.0"
+  }
+}
