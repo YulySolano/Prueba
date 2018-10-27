@@ -1,0 +1,23 @@
+body {
+    background: #4D8CE2;
+    text-align: center;
+}
+
+a:hover {
+    color: blueviolet;
+}
+
+button:hover {
+    background-color: blue !important;
+}
+
+.ui.segment{
+    width: 600px;
+    float: inherit;
+}
+
+@media (max-width: 600px) {
+    .segment{
+        width: 100%;
+    }   
+}
