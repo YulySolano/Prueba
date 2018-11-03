@@ -18,6 +18,7 @@
   "homepage": "https://github.com/YulySolano/Prueba#readme",
   "dependencies": {
     "hapi": "^17.6.0",
-    "inert": "^5.1.0"
+    "inert": "^5.1.0",
+    "pg": "^7.6.0"
   }
 }
